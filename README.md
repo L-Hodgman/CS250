@@ -7,7 +7,7 @@ A user's needs can be interpreted by having meetings and interviews with the end
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-I approach developing programs by looking at what is needed and the workload of the program. In future development I want to use agile processes like delivering product in increments. This would help lessen the stress of development by not cramming everything in one sitting. Also, it would help with catching errors and function issues sooner.
+I approach developing programs by looking at what is needed and the workload of the program. In future development I want to use agile processes like delivering a product in increments. This would help lessen the stress of development by not cramming everything in one sitting. Also, it would help with catching errors and function issues sooner.
 
 What does it mean to be a good team member in software development?
 
